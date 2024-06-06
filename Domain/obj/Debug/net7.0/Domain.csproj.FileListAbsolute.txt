@@ -1,0 +1,16 @@
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Domain/bin/Debug/net7.0/Domain.dll
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Domain/bin/Debug/net7.0/Domain.pdb
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Domain/obj/Debug/net7.0/Domain.sourcelink.json
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Domain/obj/Debug/net7.0/Domain.dll
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Domain/obj/Debug/net7.0/Domain.pdb
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Domain/obj/Debug/net7.0/ref/Domain.dll
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Domain/bin/Debug/net7.0/Shared.dll
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Domain/bin/Debug/net7.0/Shared.pdb
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Domain/obj/Debug/net7.0/Domain.csproj.CopyComplete

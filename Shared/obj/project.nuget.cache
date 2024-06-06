@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gEVh6vq/HrgBDc6KvmY2xUDVHPDlBLDh/+fee21drFaCzeHq02Gao35RNQToN+6SESbg57SSJYP1AYZtnS2xJw==",
+  "success": true,
+  "projectFilePath": "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Shared/Shared.csproj",
+  "expectedPackageFiles": [
+    "/Users/lordmathi2741/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/lordmathi2741/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

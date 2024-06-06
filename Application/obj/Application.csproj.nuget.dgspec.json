@@ -1,0 +1,306 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Application/Application.csproj": {}
+  },
+  "projects": {
+    "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Application/Application.csproj",
+        "packagesPath": "/Users/lordmathi2741/.nuget/packages/",
+        "outputPath": "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lordmathi2741/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Domain/Domain.csproj": {
+                "projectPath": "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Domain/Domain.csproj"
+              },
+              "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Infrastructure/Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Domain/Domain.csproj",
+        "packagesPath": "/Users/lordmathi2741/.nuget/packages/",
+        "outputPath": "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lordmathi2741/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Shared /Shared.csproj": {
+                "projectPath": "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Shared /Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Infrastructure/Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Infrastructure/Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/Users/lordmathi2741/.nuget/packages/",
+        "outputPath": "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lordmathi2741/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Domain/Domain.csproj": {
+                "projectPath": "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Domain/Domain.csproj"
+              },
+              "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Shared /Shared.csproj": {
+                "projectPath": "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Shared /Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Shared /Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Shared /Shared.csproj",
+        "projectName": "Shared",
+        "projectPath": "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Shared /Shared.csproj",
+        "packagesPath": "/Users/lordmathi2741/.nuget/packages/",
+        "outputPath": "/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/CatchUp /Shared /obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lordmathi2741/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
